@@ -1,0 +1,89 @@
+* {
+        margin: 0;
+        padding: 0;
+ }
+
+.boton-nav {background-color: rgb(241, 230, 127);
+        font-family: 'Oswald', sans-serif;
+        font-size: 20px;
+        text-align: center;
+        border: rgb(13, 25, 182) 1px solid;
+
+
+}
+
+
+.titulo-h1 {background-color: rgb(253, 249, 7);
+            font-family: 'Oswald', sans-serif;
+            color: rgb(4, 1, 46);
+            text-align: center;
+            text-shadow: rgb(228, 229, 255);
+            margin: 0px;
+}
+
+.titulo-h2 {background-color: rgb(252, 144, 4);
+            font-family: 'Oswald', sans-serif;
+            font-size: 18px;
+            color: #000;
+            text-align: center;
+            margin: 0px;
+
+}
+
+
+.categorias {
+            border: rgb(0, 26, 255) 1px solid;
+            border-radius: 3px;
+            background-color: rgb(49, 98, 170);
+            padding: 0;
+            margin: 0;
+
+}
+
+.cat-til {font-family: 'Oswald', sans-serif;
+        font-size: 30px;
+        color: #ffff;
+
+}
+
+.boton {background-color: blue;
+        font-size: 20px;
+        color: #ffff;
+        font-family: 'Oswald', sans-serif;
+
+}
+
+
+.menu {
+        background-color: rgb(214, 213, 202); 
+}
+
+.select-producto {border: #000 1px solid;
+                box-shadow: #000 5px 5px 5px;
+                background-color: rgb(255, 218, 56); 
+
+
+}
+
+.carrito {font-size: 18px;}
+
+
+.select-producto:hover {
+    transform: scale(1.05)
+}
+
+
+
+.titulo-producto {font-size: 23px;
+            color: #000;
+            font-family: 'Oswald', sans-serif;
+
+}
+
+.footer {background-color: #000;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 18px;
+        text-align: center;
+        color: #ffff;
+
+}
